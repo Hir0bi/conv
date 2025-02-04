@@ -1,6 +1,6 @@
 # Explicación del Script `conv.sh`
 
-Este documento ofrece una explicación detallada del script `def_conv2.sh`, el cual convierte archivos de video MP4 en directorios organizados siguiendo un patrón específico. El script convierte los videos a MP4 utilizando las especificaciones indicadas y ofrece un menú interactivo para cambiar el idioma, alternar la eliminación de audio, iniciar el procesamiento y revisar errores.
+Este documento ofrece una explicación detallada del script `conv.sh`, el cual convierte archivos de video MP4 en directorios organizados siguiendo un patrón específico. El script convierte los videos a MP4 utilizando las especificaciones indicadas y ofrece un menú interactivo para cambiar el idioma, alternar la eliminación de audio, iniciar el procesamiento y revisar errores.
 
 ## Tabla de Contenidos
 
@@ -21,7 +21,7 @@ Este documento ofrece una explicación detallada del script `def_conv2.sh`, el c
 
 ## Visión General
 
-El script `def_conv2.sh` está diseñado para:
+El script `conv.sh` está diseñado para:
 
 - **Buscar carpetas de video:** Detecta carpetas que siguen el patrón `TXXL` o `TXXR` (por ejemplo, `T1L`, `T1R`, `T2L`, etc.) en el directorio base.
 - **Convertir videos:** Procesa cada archivo MP4 encontrado y lo convierte a un nuevo archivo MP4 utilizando:
