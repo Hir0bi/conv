@@ -120,5 +120,4 @@ cambiar_idioma() {
 - **Interfaz Interactiva:**  
   El menú interactivo y los mensajes con iconos (🔎, 🎬, ✅, ❌, etc.) hacen que la experiencia del usuario sea clara y amigable.
 
-Este script es una solución completa y robusta para la conversión automatizada de archivos de video, ideal para entornos con grandes volúmenes de datos y necesidades de procesamiento acelerado.
 
