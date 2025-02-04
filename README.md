@@ -1,4 +1,4 @@
-# Explicación del Script `def_conv2.sh`
+# Explicación del Script `conv.sh`
 
 Este documento ofrece una explicación detallada del script `def_conv2.sh`, el cual convierte archivos de video MP4 en directorios organizados siguiendo un patrón específico. El script convierte los videos a MP4 utilizando las especificaciones indicadas y ofrece un menú interactivo para cambiar el idioma, alternar la eliminación de audio, iniciar el procesamiento y revisar errores.
 
